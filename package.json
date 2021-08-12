@@ -1,0 +1,19 @@
+{
+  "name": "pairexercise.wikistack",
+  "version": "1.0.0",
+  "description": "Wiki Stack Pair Programming Exercise",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NicholasZehr/PairExercise.Wikistack.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NicholasZehr/PairExercise.Wikistack/issues"
+  },
+  "homepage": "https://github.com/NicholasZehr/PairExercise.Wikistack#readme"
+}
